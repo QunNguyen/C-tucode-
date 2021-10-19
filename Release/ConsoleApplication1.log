@@ -1,0 +1,24 @@
+﻿  COMINATION1.cpp
+  demoo.cpp
+D:\C++\ConsoleApplication1\ConsoleApplication1\demoo.cpp(31,15): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\C++\ConsoleApplication1\ConsoleApplication1\demoo.cpp(32,14): error C2664: 'void doicho(int *[],int)': cannot convert argument 1 from 'int [100]' to 'int *[]'
+D:\C++\ConsoleApplication1\ConsoleApplication1\demoo.cpp(32,10): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+D:\C++\ConsoleApplication1\ConsoleApplication1\demoo.cpp(11,6): message : see declaration of 'doicho'
+  Fibonaci1.cpp
+  LCMvsGCD1.cpp
+  MODULO1.cpp
+  PRIME1(P.A).cpp
+  PRIME1.cpp
+  LCMvsGCD2.cpp
+  PRIME14.cpp
+D:\C++\ConsoleApplication1\ConsoleApplication1\PRIME14.cpp(32,12): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+  PRIME2.cpp
+D:\C++\ConsoleApplication1\ConsoleApplication1\PRIME2.cpp(41,27): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+D:\C++\ConsoleApplication1\ConsoleApplication1\PRIME2.cpp(50,11): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  PRIME3.cpp
+  PRIME9.cpp
+  Searching1.cpp
+  Source.cpp
+D:\C++\ConsoleApplication1\ConsoleApplication1\Source.cpp(10,26): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+D:\C++\ConsoleApplication1\ConsoleApplication1\Source.cpp(15,10): warning C4244: 'initializing': conversion from '__int64' to 'long', possible loss of data
+  timsonttrongkhoan.cpp

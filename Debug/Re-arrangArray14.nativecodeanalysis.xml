@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\C++\ConsoleApplication1\ConsoleApplication1\</FILEPATH>
+      <FILENAME>Re-arrangArray14.cpp</FILENAME>
+      <LINE>38</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>6246</DEFECTCODE>
+    <DESCRIPTION>Local declaration of 'i' hides declaration of the same name in outer scope. For additional information, see previous declaration at line '29' of 'd:\c++\consoleapplication1\consoleapplication1\re-arrangarray14.cpp'.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>26</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>D:\C++\ConsoleApplication1\ConsoleApplication1\</FILEPATH>
+        <FILENAME>Re-arrangArray14.cpp</FILENAME>
+        <LINE>29</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\C++\ConsoleApplication1\ConsoleApplication1\</FILEPATH>
+      <FILENAME>Re-arrangArray14.cpp</FILENAME>
+      <LINE>40</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>6246</DEFECTCODE>
+    <DESCRIPTION>Local declaration of 'j' hides declaration of the same name in outer scope. For additional information, see previous declaration at line '29' of 'd:\c++\consoleapplication1\consoleapplication1\re-arrangarray14.cpp'.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>26</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>D:\C++\ConsoleApplication1\ConsoleApplication1\</FILEPATH>
+        <FILENAME>Re-arrangArray14.cpp</FILENAME>
+        <LINE>29</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\C++\ConsoleApplication1\ConsoleApplication1\</FILEPATH>
+      <FILENAME>Re-arrangArray14.cpp</FILENAME>
+      <LINE>26</LINE>
+      <COLUMN>4</COLUMN>
+    </SFA>
+    <DEFECTCODE>6262</DEFECTCODE>
+    <DESCRIPTION>Function uses '80028' bytes of stack:  exceeds /analyze:stacksize '32768'.  Consider moving some data to heap.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>26</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
